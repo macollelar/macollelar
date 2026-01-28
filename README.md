@@ -47,7 +47,7 @@
 <p align="left">
 I'm Maria from Brazil! 🇧🇷<br><br>
 - 🔭 I’m currently a student<br>
-- 📚 I'm currently learning C & Python<br>
+- 📚 I'm currently learning C & JavaSpring<br>
 - ⚡ In my free time I play games & listen to music
 </p>
 
