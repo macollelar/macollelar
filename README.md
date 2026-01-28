@@ -17,9 +17,13 @@
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="25" />
   </a>
 
-  <a href="mailto:mariaeduarda@email.com?subject=Contato%20via%20GitHub&body=Olá%20Maria,%0D%0A%0D%0AVi%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20falar%20com%20você.">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="25" />
+  <a href="mailto:mariaeduarda@email.com">
+  <img
+    src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge"
+    height="25"
+  />
   </a>
+
 
 </div>
 
