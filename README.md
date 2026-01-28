@@ -52,14 +52,5 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/go6n7pyznq198exbzpjd575vf">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=go6n7pyznq198exbzpjd575vf&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
